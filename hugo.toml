@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.lape.sh/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kyle Lape'
 theme = 'ananke'
