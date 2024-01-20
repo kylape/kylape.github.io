@@ -1,6 +1,7 @@
 +++
 title = 'Houston Vacation'
 date = 2024-01-14T07:07:07+01:00
+draft = false
 +++
 
 # Houston
@@ -29,7 +30,7 @@ Downtown park (southeast end).  Has a small lake and does kayaking.
 
 Yet another urban park, but this time with waterfalls.
 
-![[Pasted image 20240120102659.png]]
+![Hines Waterfall Park](hines-waterfall-park.png)
 
 ### [Houston arboretum](https://houstonarboretum.org)
 
@@ -41,7 +42,8 @@ Lots of children's programs.
 ### Marriott marquis lazy river
 On top of the Marriott Marquis building in downtown Houston.
 Can buy day passes Monday-Thursday, but only available to hotel guests otherwise.
-![[Pasted image 20240120104641.png]]
+
+![Marriott Marquis Lazy River](lazy-river.png)
 
 ### [Houston museum district](https://houmuse.org)
 20 museums, 4 walkable zones, including a children's museum.  Very close to the zoo.
