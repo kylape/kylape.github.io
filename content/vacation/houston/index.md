@@ -14,6 +14,11 @@ draft = false
 * Tons to do - big city
 * Close to beach
 * Decent urban core - perhaps won't have to drive
+* Visit some of our Houston friends!
+* Influencer opportunities
+* True crime hotspots
+* Underground food courts
+* Diverse food
 
 ## Why NOT Houston?
 
@@ -124,3 +129,7 @@ There are a bunch of rides for kids and adults, priced at $6.50 per person per r
 Also a bunch of resaurants, a playground and an arcade.
 
 ![Kemah Boardwalk](kemah-boardwalk.jpeg)
+
+## [Bayou Bend Collection and Gardens](https://www.mfah.org/visit/bayou-bend-collection-and-gardens/)
+
+This is a small museum for American decorative arts and paintings.
