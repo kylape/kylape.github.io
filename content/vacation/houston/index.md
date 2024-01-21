@@ -1,10 +1,8 @@
 +++
-title = 'Houston Vacation'
+title = 'Houston'
 date = 2024-01-14T07:07:07+01:00
 draft = false
 +++
-
-# Houston
 
 ![Downtown Houston](houston.jpeg)
 
@@ -104,9 +102,6 @@ Can buy day passes Monday-Thursday, but only available to hotel guests otherwise
 ### [Houston Zoo](https://www.houstonzoo.org)
 
 **Location**: 4 miles southwest of downtown
-
-### Miller Outdoor Theatre
-### Boat Tours
 
 ### Galveston
 
